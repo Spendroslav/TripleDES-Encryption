@@ -1,0 +1,11 @@
+C:\Users\Kobliha\source\repos\3Des encryption\3Des encryption\bin\Debug\3Des encryption.exe.config
+C:\Users\Kobliha\source\repos\3Des encryption\3Des encryption\bin\Debug\3Des encryption.exe
+C:\Users\Kobliha\source\repos\3Des encryption\3Des encryption\bin\Debug\3Des encryption.pdb
+C:\Users\Kobliha\source\repos\3Des encryption\3Des encryption\obj\Debug\3Des encryption.csproj.AssemblyReference.cache
+C:\Users\Kobliha\source\repos\3Des encryption\3Des encryption\obj\Debug\3Des encryption.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kobliha\source\repos\3Des encryption\3Des encryption\obj\Debug\_3Des_encryption.Form1.resources
+C:\Users\Kobliha\source\repos\3Des encryption\3Des encryption\obj\Debug\_3Des_encryption.Properties.Resources.resources
+C:\Users\Kobliha\source\repos\3Des encryption\3Des encryption\obj\Debug\3Des encryption.csproj.GenerateResource.cache
+C:\Users\Kobliha\source\repos\3Des encryption\3Des encryption\obj\Debug\3Des encryption.csproj.CoreCompileInputs.cache
+C:\Users\Kobliha\source\repos\3Des encryption\3Des encryption\obj\Debug\3Des encryption.exe
+C:\Users\Kobliha\source\repos\3Des encryption\3Des encryption\obj\Debug\3Des encryption.pdb
