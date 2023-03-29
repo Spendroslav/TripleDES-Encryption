@@ -2,7 +2,6 @@
 using System.Diagnostics;
 using System.Windows.Forms;
 using System.IO;
-//using static System.Net.WebRequestMethods; // CO to kurva je
 
 namespace _3Des_encryption
 {
